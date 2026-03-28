@@ -19,8 +19,8 @@ A machine learning project to predict property prices using Linear Regression, R
 ## Steps
 
 1. **Data Cleaning**
-   - Removed duplicates
-   - Handled null values
+   - Removed duplicates (I found zero)
+   - Handled null values (I found zero)
    - Converted data types (e.g., whole numbers to decimals)
 
 2. **Exploratory Data Analysis (EDA)**
