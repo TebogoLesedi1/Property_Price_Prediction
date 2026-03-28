@@ -51,12 +51,12 @@ A machine learning project to predict property prices using Linear Regression, R
 
 ## Libraries
 
-pandas
-numpy
-scikit-learn
-xgboost
-matplotlib
-seaborn
+-pandas
+-numpy
+-scikit-learn
+-xgboost
+-matplotlib
+-seaborn
 
-contact
+**contact**
 Tebogo Lesedi - avaliable for data analysis and data science collaborations 
